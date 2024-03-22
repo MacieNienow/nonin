@@ -1,0 +1,30 @@
+{
+  "name": "nonin",
+  "version": "1.0.0",
+  "description": "Brunch plugin to turn ES6 code into vanilla ES5 with no runtime required.",
+  "author": "JaquanFunk",
+  "homepage": "https://github.com/MacieNienow/nonin.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MacieNienow/nonin.git"
+  },
+  "keywords": [
+    "ut",
+    "brunch-plugin",
+    "brunch-compiler",
+    "js",
+    "eum",
+    "es5",
+    "illum"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "babel-core": "^4.0.0",
+    "anymatch": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "1.x"
+  }
+}
